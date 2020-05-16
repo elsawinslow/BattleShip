@@ -310,6 +310,7 @@ def game_lose():
     return True         
 
 
+print("Starting game!")
 #test_game(bot_ships)
 play_game()
 
